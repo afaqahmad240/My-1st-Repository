@@ -1,4 +1,4 @@
-This is my first  fiel containing no code at all.
+This is my first  file containing no code at all.
 
 <!DOCTYPE html>
 <html>
