@@ -10,7 +10,9 @@ This is my first  file containing no code at all.
 
 </html>
 
-Hello! This is the edited file buy hackeruer!
+Hello! This is the edited file buy hackeruser!
 
 
 This is the second edition of editing in a new file! 
+
+Afaq ahmad here updating and testing out the new GIT form windows console!
